@@ -1,4 +1,4 @@
-## segment_compute
+## segment_practice
 ### the code is written on `python 3`
 ### The source picture is a cells picture .now we are going to segment the middle block and compute its width and area.
 #### source picture
